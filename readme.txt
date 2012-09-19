@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: aharris88
-Donate link: http://example.com/
+Donate link: http://adamwadeharris.com/donate
 Tags: donate, starbucks, coffee
 Requires at least: 3.0.1
 Tested up to: 3.4
