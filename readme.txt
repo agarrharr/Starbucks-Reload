@@ -4,7 +4,7 @@ Donate link: http://example.com/
 Tags: donate, starbucks, coffee
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,8 +32,9 @@ e.g.
 
 == Screenshots ==
 
-1. assets/widget.png
-2. assets/settings.png
+1. widget.png
+2, widget2.png
+2. settings.png
 
 == Changelog ==
 
