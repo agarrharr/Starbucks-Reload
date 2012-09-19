@@ -33,8 +33,8 @@ e.g.
 == Screenshots ==
 
 1. widget.png
-2, widget2.png
-2. settings.png
+2. widget2.png
+3. settings.png
 
 == Changelog ==
 
