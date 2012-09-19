@@ -32,8 +32,8 @@ e.g.
 
 == Screenshots ==
 
-1. widget.png
-2. settings.png
+1. assets/widget.png
+2. assets/settings.png
 
 == Changelog ==
 
