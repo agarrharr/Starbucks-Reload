@@ -38,10 +38,16 @@ e.g.
 
 == Changelog ==
 
+= 1.0.1 =
+* This is just to update the screenshots
+
 = 1.0 =
 * This is the first version
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* This is just to update the screenshots
 
 = 1.0 =
 This is the first version
