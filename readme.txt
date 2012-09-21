@@ -28,7 +28,7 @@ e.g.
 
 == Frequently Asked Questions ==
 
-
+Feel free to ask me any questions you want on the support page here or on the my site: http://adamwadeharris.com/starbucks-reload-widget/
 
 == Screenshots ==
 
