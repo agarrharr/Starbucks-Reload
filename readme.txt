@@ -4,7 +4,7 @@ Donate link: http://adamwadeharris.com/donate
 Tags: donate, starbucks, coffee
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ This plugin allows you to put a widget on your site that allows visitors to relo
 
 == Description ==
 
-
+With this plugin you can add a widget to your site With a customizable Title and description. As a way to thank you, your visitors can load between $10-100 on your Starbucks card. They can pay with either Paypal or with a debit/credit card.
 
 == Installation ==
 
@@ -38,6 +38,9 @@ Feel free to ask me any questions you want on the support page here or on the my
 
 == Changelog ==
 
+= 1.0.3 =
+* This is just to update the screenshots
+
 = 1.0.2 =
 * This is just to update the screenshots
 
@@ -48,6 +51,9 @@ Feel free to ask me any questions you want on the support page here or on the my
 * This is the first version
 
 == Upgrade Notice ==
+
+= 1.0.3 =
+* This is just to update the screenshots
 
 = 1.0.2 =
 * This is just to update the screenshots
