@@ -12,19 +12,15 @@ This plugin allows you to put a widget on your site that allows visitors to relo
 
 == Description ==
 
-With this plugin you can add a widget to your site With a customizable Title and description. As a way to thank you, your visitors can load between $10-100 on your Starbucks card. They can pay with either Paypal or with a debit/credit card.
+With this plugin you can add a widget to your site. As a way to thank you, your visitors can load between $10-100 on your Starbucks card. They can pay with either Paypal or with a debit/credit card.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload `starbucks.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Put the widget in a sidebar
 4. Enter your Starbucks card number and save
-5. You can also customize the title and the messge underneath the title
+5. You can also customize the title and the message underneath the title
 
 == Frequently Asked Questions ==
 
