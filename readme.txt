@@ -4,7 +4,7 @@ Donate link: http://adamwadeharris.com/donate
 Tags: donate, starbucks, coffee
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.0.3
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,34 +28,15 @@ Feel free to ask me any questions you want on the support page here or on the my
 
 == Screenshots ==
 
-1. widget.png
-2. widget2.png
-3. settings.png
+1. Widget
+2. Settings
 
 == Changelog ==
-
-= 1.0.3 =
-* This is just to update the screenshots
-
-= 1.0.2 =
-* This is just to update the screenshots
-
-= 1.0.1 =
-* This is just to update the screenshots
 
 = 1.0 =
 * This is the first version
 
 == Upgrade Notice ==
-
-= 1.0.3 =
-* This is just to update the screenshots
-
-= 1.0.2 =
-* This is just to update the screenshots
-
-= 1.0.1 =
-* This is just to update the screenshots
 
 = 1.0 =
 This is the first version
