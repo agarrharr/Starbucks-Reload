@@ -41,7 +41,7 @@ class starbucksWidget extends WP_Widget{
         <h1 class="widget-title"><?php echo $title; ?></h1>
         <p><?php echo $message; ?></p>
 		<br/>
-		<form action="https://www.starbucks.com/card/manage/guest-reload" class="AjaxForm required_form payment-method region size2of3" id="OneTimeReload" method="post" novalidate="novalidate" target="_blank">
+		<form action="https://www.starbucks.com/card/reload/one-time" class="AjaxForm required_form payment-method region size2of3" id="OneTimeReload" method="post" novalidate="novalidate" target="_blank">
 				<input class="field_large numbers card-number required numeric" id="Card_Number" maxlength="16" name="Card.Number" title="Card Number | This 15- or 16-digit number is on the front of your card. Please enter it without spaces." type="hidden" value="<?php echo $cardNumber; ?>">
 				<span class="numbers">$</span>
 				<input class="field_xxsmall align_right numbers" data-validation-max="100" data-validation-min="10" id="Reload_Amount" maxlength="3" name="Reload.Amount" title="Please enter an amount." type="text" value="10">
