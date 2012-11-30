@@ -33,10 +33,16 @@ Feel free to ask me any questions you want on the support page here or on the my
 
 == Changelog ==
 
+= 1.1 =
+* Changed form due to the Starbucks site changing
+
 = 1.0 =
 * This is the first version
 
 == Upgrade Notice ==
+
+= 1.0 =
+This upgrade is required for the widget to work due to the Starbucks site changing
 
 = 1.0 =
 This is the first version
