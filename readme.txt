@@ -41,7 +41,7 @@ Feel free to ask me any questions you want on the support page here or on the my
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.1 =
 This upgrade is required for the widget to work due to the Starbucks site changing
 
 = 1.0 =
