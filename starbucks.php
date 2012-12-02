@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: Starbucks Reload
-Plugin URI: http://www.adamwadeharris.com/wordpress/plugins/starbucks
+Plugin URI: http://www.adamwadeharris.com/starbucks-reload-widget/
 Description: This plugin allows you to put a widget on your site that allows visitors to reload your Starbucks card.
 Author: Adam Harris
-Version: 1.0
+Author URI: http://www.adamwadeharris.com
+Version: 1.1
 Author URLI: http://www.adamwadeharris.com
 
 Copyright YEAR  PLUGIN_AUTHOR_NAME  (email : PLUGIN AUTHOR EMAIL)
