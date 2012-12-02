@@ -4,7 +4,7 @@ Donate link: http://adamwadeharris.com/donate
 Tags: donate, starbucks, coffee
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,9 @@ Feel free to ask me any questions you want on the support page here or on the my
 
 == Changelog ==
 
+= 1.2 =
+* Changed aside tag to li
+
 = 1.1 =
 * Changed form due to the Starbucks site changing
 
@@ -40,6 +43,9 @@ Feel free to ask me any questions you want on the support page here or on the my
 * This is the first version
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Works better in most themes
 
 = 1.1 =
 This upgrade is required for the widget to work due to the Starbucks site changing

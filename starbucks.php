@@ -5,7 +5,7 @@ Plugin URI: http://www.adamwadeharris.com/starbucks-reload-widget/
 Description: This plugin allows you to put a widget on your site that allows visitors to reload your Starbucks card.
 Author: Adam Harris
 Author URI: http://www.adamwadeharris.com
-Version: 1.1
+Version: 1.2
 Author URLI: http://www.adamwadeharris.com
 
 Copyright YEAR  PLUGIN_AUTHOR_NAME  (email : PLUGIN AUTHOR EMAIL)
@@ -38,7 +38,7 @@ class starbucksWidget extends WP_Widget{
 		$message = ($instance['message'])? $instance['message']: 'If you found value in this site, feel free to reload my Starbucks card to say thanks.';
 		$cardNumber = ($instance['cardNumber'])? $instance['cardNumber']: '6069262396927591';
 		?>
-		<aside id="starbucksWidget" class="widget widget_starbuck">
+		<li id="starbucksWidget" class="widget widget_starbuck">
         <h1 class="widget-title"><?php echo $title; ?></h1>
         <p><?php echo $message; ?></p>
 		<br/>
@@ -62,7 +62,7 @@ class starbucksWidget extends WP_Widget{
 			<br/>
 			<button type="submit"><?php echo $title; ?></button>
 		</form>
-		</aside>
+		</li>
 		<?php
 	}
 	
