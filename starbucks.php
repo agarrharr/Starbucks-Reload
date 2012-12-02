@@ -6,9 +6,9 @@ Description: This plugin allows you to put a widget on your site that allows vis
 Author: Adam Harris
 Author URI: http://www.adamwadeharris.com
 Version: 1.2
-Author URLI: http://www.adamwadeharris.com
+Author URI: http://www.adamwadeharris.com
 
-Copyright YEAR  PLUGIN_AUTHOR_NAME  (email : PLUGIN AUTHOR EMAIL)
+Copyright 2012 Adam Harris
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 
