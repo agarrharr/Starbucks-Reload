@@ -37,9 +37,9 @@ class starbucksWidget extends WP_Widget{
 		$title = ($instance['title'])? $instance['title']: 'Buy Me Coffee';
 		$message = ($instance['message'])? $instance['message']: 'If you found value in this site, feel free to reload my Starbucks card to say thanks.';
 		$cardNumber = ($instance['cardNumber'])? $instance['cardNumber']: '6069262396927591';
+
+		echo $before_widget. $before_title . $title . $after_title;
 		?>
-		<li id="starbucksWidget" class="widget widget_starbuck">
-        <h1 class="widget-title"><?php echo $title; ?></h1>
         <p><?php echo $message; ?></p>
 		<br/>
 		<form action="https://www.starbucks.com/card/reload/one-time" class="AjaxForm required_form payment-method region size2of3" id="OneTimeReload" method="post" novalidate="novalidate" target="_blank">
@@ -62,8 +62,8 @@ class starbucksWidget extends WP_Widget{
 			<br/>
 			<button type="submit"><?php echo $title; ?></button>
 		</form>
-		</li>
 		<?php
+		echo $after_widget;
 	}
 	
 	function form($instance){
