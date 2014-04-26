@@ -1,16 +1,17 @@
 === Plugin Name ===
 Contributors: aharris88
-Donate link: http://adamwadeharris.com/donate
 Tags: donate, starbucks, coffee
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you to put a widget on your site that allows visitors to reload your Starbucks card.
 
 == Description ==
+
+*Note*- This plugin no longer works because the Starbucks website has changed, and I can no longer find a url that will work to reload someone else's card with just the card number and without having to log in. It will no longer be supported. But if you happen to find a way to fix it, please let me know! You can find me on Twitter @adamCoder
 
 With this plugin you can add a widget to your site. As a way to thank you, your visitors can load between $10-100 on your Starbucks card. They can pay with either Paypal or with a debit/credit card.
 
@@ -24,7 +25,7 @@ With this plugin you can add a widget to your site. As a way to thank you, your 
 
 == Frequently Asked Questions ==
 
-Feel free to ask me any questions you want on the support page here or on the my site: http://adamwadeharris.com/starbucks-reload-widget/
+Feel free to ask me any questions you want on the support page here or on the my site: http://www.adamwadeharris.com/wordpress/starbucks-reload-widget/
 
 == Screenshots ==
 
